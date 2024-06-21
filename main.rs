@@ -1,5 +1,5 @@
 // Simple functions for learning Rust
 
-fn main(){
+fn main() {
     println!("hello world");
 }
