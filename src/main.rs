@@ -1,4 +1,4 @@
-// Simple functions for learning Rust
+// Learning Rust by Making Linked Lists
 
 fn main() {
     println!("hello world");
