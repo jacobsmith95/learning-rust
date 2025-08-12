@@ -1,1 +1,1 @@
-C:\Users\Jacob\Documents\GitHub\learning-rust\target\debug\liblearning_rust.rlib: C:\Users\Jacob\Documents\GitHub\learning-rust\src\first.rs C:\Users\Jacob\Documents\GitHub\learning-rust\src\lib.rs
+C:\Users\Jacob\Documents\GitHub\learning-rust\target\debug\liblearning_rust.rlib: C:\Users\Jacob\Documents\GitHub\learning-rust\src\first.rs C:\Users\Jacob\Documents\GitHub\learning-rust\src\lib.rs C:\Users\Jacob\Documents\GitHub\learning-rust\src\second.rs
